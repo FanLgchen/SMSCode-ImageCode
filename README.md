@@ -66,7 +66,8 @@ def sendTemplateSMS(to, datas, tempId):
 if __name__ == '__main__':
     # 注意： 测试的短信模板编号为1
     sendTemplateSMS('17600992168', ['123456', 5], 1)
-｀｀｀
+```
+
 ### 接口
 * 提取图形验证码
 * 删除，防止恶意测试
